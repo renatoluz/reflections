@@ -1,1 +1,1 @@
-Quando criar um repositório remoto?
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
